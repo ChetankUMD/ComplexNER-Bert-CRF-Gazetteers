@@ -1,5 +1,3 @@
-# Writing the enhanced README content to a .md file
-readme_content = """
 # ComplexNER-TeamACS
 
 **ComplexNER-TeamACS** is a repository dedicated to Named Entity Recognition (NER) using BERT (Bidirectional Encoder Representations from Transformers) combined with Conditional Random Fields (CRF). The project provides implementations for NER in both English and Hindi languages and explores advanced methods to tackle complex NER scenarios like nested and overlapping entities.
@@ -90,4 +88,3 @@ Our approach combines **transformer-based models** (e.g., BERT, XLM-RoBERTa) wit
 This project presents a robust framework for tackling complex NER tasks, demonstrating significant improvements over baseline methods. By leveraging transformer-based embeddings and CRF for structured prediction, the approach addresses challenges in multilingual and domain-specific contexts, paving the way for future advancements in NER systems.
 
 ---
-"""
